@@ -1,0 +1,45 @@
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+$primary: rgb(5, 49, 110);
+$body-bg: lighten($primary, 90%);
+
+@import 'bootstrap/scss/bootstrap';
+
+div.divider {
+    height: 3rem;
+    background-color: rgba(5, 49, 110, 0.1);
+    border: solid rgba(5, 49, 110, 0.15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(5, 49, 110, 0.1), inset 0 .125em .5em rgba(5, 49, 110, 0.15);
+}
+
+div.bg-surgery {
+    background-image: url('/public/img/surgery.jpg');
+    background-color: $body-bg;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 !important;
+}
+
+div.carousel-img {
+    height: 20rem;
+    width: 100%;
+    background-color: $body-bg;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 !important;
+}
+
+div.carousel-img.carousel-img-3 {
+    background-image: url('/public/img/slide-3.jpg');
+}
+div.carousel-img.carousel-img-2 {
+    background-image: url('/public/img/slide-2.jpg');
+}
+div.carousel-img.carousel-img-1 {
+    background-image: url('/public/img/slide-1.jpg');
+}
