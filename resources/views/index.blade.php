@@ -4,9 +4,7 @@
     <main>
         <div class="container">
             <div class="position-relative overflow-hidden p-3 p-md-3 m-md-1 text-center bg-surgery">
-                <div class="col-md-5 p-lg-5 mx-auto">
-                    <h3>Fogászat Debrecen belvárosában</h3>
-                </div>
+                <h3 class="mx-auto my-0">Fogászat Debrecen belvárosában</h3>
             </div>
             <div id="carousel" class="carousel slide" data-bs-ride="true">
                 <div class="carousel-indicators">
