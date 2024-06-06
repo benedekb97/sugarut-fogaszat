@@ -24,7 +24,9 @@
                 <div class="col-lg-4">
                     <img class="rounded-circle" src="/img/szanyiszabolcsmate.jpg" style="width: 100%; height: auto;" alt="Dr. Szanyi Szabolcs Máté">
                     <h4 class="mt-5 mb-3">Dr. Szanyi Szabolcs Máté</h4>
-                    <p style="text-align:justify;">Hamarosan...</p>
+                    <p style="text-align:justify;">Fogorvosi tanulmányaimat a Debreceni Egyetemen folytattam, majd diplomám megszerzése után körzeti fogorvosi rendelőben és magánrendelőben tökéletesítettem tudásom. 2020-tól a Semmelweis Egyetem Fogászati és Szájsebészeti Oktató Intézetében Fogszabályozási Osztályán dolgozom. </p>
+                    <p style="text-align:justify;">Munkám során fontosnak tartom, hogy pácienseimet a számukra individualizált biomechanikai megoldásokkal kezeljem a legkedvezőbb eredmény elérése érdekében. Szakmai fejlődésem érdekében számos magyar és külföldi továbbképzésen veszek részt, így egyaránt foglalkozom kivehető-, rögzített- és sínes(láthatatlan) fogszabályzókkal is. </p>
+                    <p style="text-align: justify;">Várom nem csak gyermek, de felnőtt pácienseimet is, hiszen a tökéletes mosoly nem korfüggő!</p>
                 </div>
             </div>
             <h2 class="mt-5">Asszisztensnő</h2>
