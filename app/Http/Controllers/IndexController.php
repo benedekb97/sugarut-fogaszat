@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 namespace App\Http\Controllers;
 
+use App\Models\Pricing;
+use App\Models\PricingCategory;
 use Illuminate\Contracts\Foundation\Application;
 use Illuminate\Contracts\View\Factory;
 use Illuminate\Contracts\View\View;
@@ -33,7 +35,9 @@ class IndexController extends Controller
 
     public function pricing(): Application|Factory|View|BaseApplication
     {
-        return view('pricing');
+        $categories = PricingCategory::all();
+
+        return view('pricing', ['categories' => $categories]);
     }
 
     public function contact(): Application|Factory|View|BaseApplication

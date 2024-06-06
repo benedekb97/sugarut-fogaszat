@@ -44,3 +44,25 @@ div.carousel-img.carousel-img-2 {
 div.carousel-img.carousel-img-1 {
     background-image: url('/public/img/slide-1.jpg');
 }
+
+img.service-icon {
+    width: 64px;
+    height: 64px;
+}
+
+ul.list-szajsebeszet {
+}
+
+ul.list-szajsebeszet li {
+    line-height: 32px;
+    list-style: none;
+}
+
+ul.list-szajsebeszet li::marker {
+    content: " ";
+    width: 16px;
+    height: 16px;
+    background-image: url('/public/img/szajsebeszet-icon.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
