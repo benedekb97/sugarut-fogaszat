@@ -10,6 +10,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="revisit-after" content="10 days">
         <meta name="author" content="Burgess Benedek">
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
         <title>Sugárút Fogászat @yield('title')</title>
         @vite(['resources/css/app.scss'])
